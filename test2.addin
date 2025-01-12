@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<!-- Command 1 -->
+	<AddIn Type="Command">
+		<Name>Tag Ducts 1</Name>
+		<Description>Convert all text to uppercase</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command1</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea471</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	<!-- Command 2 -->
+	<AddIn Type="Command">
+		<Name>testeknapp</Name>
+		<Description>Tag all ducts</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command2</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea472</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	<!-- Command 3 --><!--
+	<AddIn Type="Command">
+		<Name>fylleTFM</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command3</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea473</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 4 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_airterminals</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command4</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea474</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 5 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_lyfeller</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command5</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea475</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 6 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_lyfeller</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command6</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea476</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 7 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_spjeld</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command7</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea477</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 8 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_spjeld</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command8</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea478</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+	--><!-- Command 9 --><!--
+	<AddIn Type="Command">
+		<Name>Tagge_brannRør</Name>
+		<Description>Tag ducts using alternate logic</Description>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.Command9</FullClassName>
+		<ClientId>d6a73342-5f0b-4169-b000-7043928ea479</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>-->
+
+	<!-- Ribbon Panel Setup -->
+	<AddIn Type="Application">
+		<Name>Application test2</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\test2.dll</Assembly>
+		<FullClassName>test2.App</FullClassName>
+		<ClientId>f3d754cf-94e4-411b-b340-dfaeb19aadd4</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

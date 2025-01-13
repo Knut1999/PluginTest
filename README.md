@@ -1,2 +1,0 @@
-# PluginTest
-Filer til plugin
